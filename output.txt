@@ -1,0 +1,15 @@
+Windows Event Log Threat Hunter (SOC-style) — Baseline Report (last 24 hours)
+
+Total events parsed: 286
+Successful logons (4624): 286
+Failed logons (4625): 0
+
+Burst alerts (failed logons within 5 minutes): none
+Password-spray indicator (distinct usernames from one IP): none
+
+Successful logon types observed (count):
+Type 5: 244
+Type 11: 16
+Type 2: 13
+Type 7: 12
+Type 0: 1
